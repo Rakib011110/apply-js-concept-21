@@ -1,16 +1,6 @@
 # apply-js-concept-21
 
-# introduced - to - js - 17
-
-# JavaScript Using Method
-
-### what is javaScript ?
-
-    -[demo](#demo)
-
-### demo
-
-    < details >
+ < details >
 
 <summary>
   <h3>What is ? (Click Me)</h3>
